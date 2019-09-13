@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class VideoPlayerApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(VideoPlayerApplication.class, args);
 	}
-
 }
