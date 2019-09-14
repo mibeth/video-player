@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 
 
 @Controller
-public class TestController {
+public class InitController {
     @Value("${spring.application.name}")
     String appName;
 
